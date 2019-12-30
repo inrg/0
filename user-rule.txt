@@ -1,0 +1,28 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+
+||github.com
+||githubusercontent.com
+||githubassets.com
+||windows.net
+||fastly.net
+||codeproject.com
+||google-analytics.com
+||*oracle.com
+||golang.org
+||sourceforge.net
+||videolan.org
+||nuget.org
+||dbbp1.com
+||captora.com
+||gstatic.com
+||fontawesome.com
+||symbolsource.org
+||gitlab.com
+||syringanetworks.net
+||jetbrains.com
+||tortoisegit.org
+||docker.com
+||googlesource.com
+||ecmascript.org
+||fontawesome.com
