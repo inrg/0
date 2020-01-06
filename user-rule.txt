@@ -66,6 +66,7 @@
 ||xvideos-cdn.com
 ||stackoverflow.com
 ||semantic-ui.com
+||gatsbyjs.org
 @@gitee.com
 @@aliyun.com
 @@qq.com
