@@ -68,6 +68,7 @@
 ||semantic-ui.com
 ||gatsbyjs.org
 ||nwjs.io
+||assembla.com
 @@gitee.com
 @@aliyun.com
 @@qq.com
