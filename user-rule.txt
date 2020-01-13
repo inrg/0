@@ -71,6 +71,7 @@
 ||assembla.com
 ||bhfiles.com
 ||boost.org
+||nuxtjs.org
 @@gitee.com
 @@aliyun.com
 @@qq.com
