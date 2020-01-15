@@ -73,6 +73,7 @@
 ||boost.org
 ||nuxtjs.org
 ||pinvoke.net
+||mediafire.com
 @@gitee.com
 @@aliyun.com
 @@qq.com
