@@ -74,6 +74,8 @@
 ||nuxtjs.org
 ||pinvoke.net
 ||mediafire.com
+||usabattle.net
+||europebattle.net
 @@gitee.com
 @@aliyun.com
 @@qq.com
