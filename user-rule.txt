@@ -76,6 +76,7 @@
 ||mediafire.com
 ||usabattle.net
 ||europebattle.net
+||fandom.com
 @@gitee.com
 @@aliyun.com
 @@qq.com
