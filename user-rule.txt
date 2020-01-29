@@ -79,6 +79,7 @@
 ||fandom.com
 ||readthedocs.io
 ||xnxx.com
+||xnxx-cdn.com
 @@gitee.com
 @@aliyun.com
 @@qq.com
