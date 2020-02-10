@@ -107,6 +107,7 @@
 ||googlesource.com
 ||ecmascript.org
 ||fontawesome.com
+||tonec.com
 @@gitee.com
 @@aliyun.com
 @@qq.com
