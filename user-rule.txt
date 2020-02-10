@@ -80,6 +80,7 @@
 ||readthedocs.io
 ||xnxx.com
 ||xnxx-cdn.com
+||daemon-tools.cc
 @@gitee.com
 @@aliyun.com
 @@qq.com
