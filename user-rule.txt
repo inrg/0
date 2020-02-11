@@ -109,6 +109,8 @@
 ||fontawesome.com
 ||tonec.com
 ||amazonaws.com
+||gstatic.com
+||googleapis.com
 @@gitee.com
 @@aliyun.com
 @@qq.com
