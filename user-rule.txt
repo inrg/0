@@ -108,6 +108,7 @@
 ||ecmascript.org
 ||fontawesome.com
 ||tonec.com
+||amazonaws.com
 @@gitee.com
 @@aliyun.com
 @@qq.com
